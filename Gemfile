@@ -16,6 +16,7 @@ gem 'uglifier', '~> 4.2.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '~> 4.4'
+ gem 'sassc', '~> 2.4.0'
 # Use CoffeeScript for .coffee assets and views
 # gem 'coffee-rails', '~> 5.0'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
